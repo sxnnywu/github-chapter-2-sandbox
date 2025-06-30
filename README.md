@@ -1,7 +1,8 @@
-# GitHub Sandbox
+# GitHub Playground
 
-Just a personal sandbox repo for learning Git and GitHub through Codedex.
 
-Testing commits, branches, merges, and markdown.
+Just a little corner for experimenting with Git and GitHub through Codedex.
+
+Trying out things like commits, branches, merges, and markdown.
 
 Nothing serious here 🚧
