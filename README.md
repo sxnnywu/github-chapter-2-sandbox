@@ -1,6 +1,6 @@
 # GitHub Sandbox
 
-Just a personal sandbox repo for learning Git and GitHub through Codedex.
+Just a little corner for experimenting with Git and GitHub through Codedex.
 
 Testing commits, branches, merges, and markdown.
 
